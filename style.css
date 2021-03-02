@@ -1,0 +1,30 @@
+nav{
+  font-family:'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  color: #1F2833;
+}
+
+h1,h2,h3,h4,h5,p{
+  font-family: 'Mulish', sans-serif;
+}
+
+.blue{
+  color: #45A29E;
+}
+
+.center{
+  text-align: center;
+}
+
+.float-container {
+  border: 3px solid rgb(0, 0, 0);
+  display: flex;
+}
+
+.float-child {
+  width: 30%;
+  float: left;
+  padding: 20px;
+  border: 2px solid red;
+}  
